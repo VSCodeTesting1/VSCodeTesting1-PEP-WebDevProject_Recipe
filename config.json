@@ -1,0 +1,6 @@
+{
+  "projectType": "javascript",
+  "browser": "chrome",
+  "headless": true,
+  "vscodeExtensions": []
+}
